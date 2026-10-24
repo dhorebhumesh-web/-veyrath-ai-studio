@@ -1,0 +1,6 @@
+{
+  "name": "VEYRATH AI STUDIO — The Last Eclipse",
+  "description": "Mobile-first dark fantasy manhwa creation studio for THE LAST ECLIPSE — VEYRATHUUN. Complete story manager, character continuity library, AI scene prompt studio, image gallery, Hindi voice narration, video planner, and backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
